@@ -1,0 +1,10 @@
+{
+    "actions": [
+        "action1",
+        "action2"
+    ],
+    "reactions": [
+        "reaction1",
+        "reaction2"
+    ]
+}
